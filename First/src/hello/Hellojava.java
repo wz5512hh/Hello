@@ -12,6 +12,7 @@ public class Hellojava {
 public static void main(String[] args) {
 	// 주석. 코드설명. 개발자가 보기 위함
 	System.out.println("켁, 븜");
+	System.out.println("ㅇㅇ");
 	/* 이것은
   	      여러줄
 	      주석
