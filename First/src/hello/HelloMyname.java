@@ -6,6 +6,7 @@ public class HelloMyname {
 		System.out.println("헬로우 월드!");
 		System.out.println("수정했음");
 		System.out.println("dd");
+		System.out.println("ss");
 
 	}
 
